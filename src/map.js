@@ -1,0 +1,1 @@
+document.write('<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//maps.google.com/maps/ms?ie=UTF8&amp;hl=pl&amp;msa=0&amp;msid=102495789852727307005.000451be1047acf0145af&amp;s=AARTsJoVr6zZSje724oObF3sgnxZtfzvWQ&amp;ll=53.980724,18.986435&amp;spn=0.201894,0.343323&amp;z=11&amp;output=embed"></iframe>');
