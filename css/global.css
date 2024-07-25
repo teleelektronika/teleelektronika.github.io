@@ -11,10 +11,12 @@ html {
 }
 
 body {
-	font:62.5% Verdana, Arial, Helvetica;
+	font-size: 62.5%;
+	font-family: Verdana, Arial, Helvetica;
 	text-align:left;
 	color:#333;
-	width:75em;
+	/*width: min(95vw, 75em); */
+	width: 75em; 
 	margin:2em auto;
 	background:#FFF;
 	padding:1.3em;
